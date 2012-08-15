@@ -7,6 +7,7 @@ all: test
 test: cuminotest
 	./cuminotest
 
+
 cuminotest: cumino.o test.o
 	g++ -o cuminotest cumino.o test.o
 
