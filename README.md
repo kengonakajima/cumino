@@ -1,4 +1,4 @@
 cumino
 ======
 
-C++ version of lumino/rumino/jumino
+C version of lumino/rumino/jumino
