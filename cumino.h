@@ -1,6 +1,7 @@
 #ifndef _CUMINO_H_
 #define _CUMINO_H_
 
+#include <time.h>
 #include <sys/time.h>
 #include <math.h>
 #include <stdlib.h>
